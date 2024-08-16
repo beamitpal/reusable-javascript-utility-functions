@@ -2,8 +2,6 @@
 This Repository is made for the use of reusable functions in javascript which we can use to simplify our work for making  web app.
 
 # Table of Contents
-
-
 - [Reusable Javascript Utility Functions](#reusable-javascript-utility-functions)
 - [Table of Contents](#table-of-contents)
   - [1. Array Utility](#1-array-utility)
